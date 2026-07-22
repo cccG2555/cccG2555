@@ -1,4 +1,4 @@
-# Choi Su-young
+# Suyoung Choi
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hardware-Software%20&%20Embedded%20Systems&fontSize=30&fontAlignY=35&desc=Computer%20Science%20&%20Engineering%20@%20Dankook%20University&descAlignY=60&descAlign=50"/>
