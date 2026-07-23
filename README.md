@@ -82,8 +82,6 @@
   <img src="https://streak-stats.demolab.com/?user=cccG2555&theme=default" width="60%"/>
 </p>
 
-> 💡 이 통계 카드들은 외부 무료 서비스(vercel.app 등)에서 실시간으로 그려주는 이미지라, 가끔 접속이 몰리면 일시적으로 안 뜰 수 있어요. 대부분 새로고침하거나 몇 분 뒤 다시 보면 정상적으로 뜹니다.
-
 ---
 
 ### 📫 Contact
